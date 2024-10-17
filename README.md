@@ -1,4 +1,4 @@
-# Uncertainty-guided Multi-Expert Learning for Long-tailed Hierarchical Text Classification
+# Leveraging Uncertainty for Depth-aware Hierarchical Text Classification
 
 ## Requirements
 
